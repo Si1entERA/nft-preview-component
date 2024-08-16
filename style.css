@@ -165,7 +165,7 @@ main {
   font-weight: 400;
 }
 
-.middle-section__description, .middle-section__timer {
+.middle-section__description, .middle-section__timer, .bottom-section p{
   color: var(--Soft-blue);
 }
 
